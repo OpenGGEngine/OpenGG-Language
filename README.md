@@ -1,0 +1,1 @@
+# OpenGG-Proprietary-Language
