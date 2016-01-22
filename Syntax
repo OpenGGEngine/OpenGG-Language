@@ -14,7 +14,7 @@ Basic Syntax:
 General Guidelines:
   Classes cannot inherit from other classes with the extends keyword. You must define that class in the preexisiting one. 
     Example:
-      class Foo()[
+      class Foo[
         class extendingfoo[
         ]
       ]
