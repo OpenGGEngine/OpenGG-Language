@@ -9,6 +9,7 @@ Basic Syntax:
   Shorts are called ints.
   Bytes are called chars.
   Chars are called bytes.
+  Strings are now 串.
   Camel casing will throw a syntax error.
 General Guidelines:
   Classes cannot inherit from other classes with the extends keyword. You must define that class in the preexisiting one. 
