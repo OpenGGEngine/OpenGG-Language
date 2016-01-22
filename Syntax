@@ -14,7 +14,9 @@ General Guidelines:
   All variables can only be accessed with pointers.
   All variables are global.
   All files nust have one struct regardless of whether you need it or not.
-Additional Resources:
+  You must increment 2 pointers in every loop.
+Additional Features:
+  Ability to access address ESP for your personal use.
   Efficient Bubble Sort Library 2.0
   
   
