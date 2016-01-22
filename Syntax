@@ -1,0 +1,22 @@
+Like OpenGG Engine, OpenGG Language is also designed to frustrate as many people as possible and make you LESS productive. All notes aside
+lets have the overview.
+
+Basic Syntax:
+  Unlike most langauges, all statements must now terminate with a : instead of a ;. 
+  Idiotic Curley braces are replaced with brackets.
+  Functions are defined with the sniotcnuf type. Example: sniotcnuf myfunction()
+  Ints are called shorts.
+  Shorts are called ints.
+  Bytes are called chars.
+  Chars are called bytes.
+  Camel casing will throw a syntax error.
+General Guidelines:
+  All variables can only be accessed with pointers.
+  All variables are global.
+  All files nust have one struct regardless of whether you need it or not.
+Additional Resources:
+  Efficient Bubble Sort Library 2.0
+  
+  
+  
+  
